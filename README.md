@@ -5,4 +5,4 @@ INTEGRANTES DO PROJETO:
 
 TEMA DO PROJETO:
 
-- Roupas & Acessórios
+- Roupas
