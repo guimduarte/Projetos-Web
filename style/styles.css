@@ -2,17 +2,26 @@ h1 {
     text-align: center;
     border-bottom: 2px solid black;
 }
+button {
+    background-color: #ffffff;
+    border: none;
+}
 img {
     width: 100px;
     height: 100px;
 }
 .row {
-    margin-inline: 20px;
+    box-sizing: border-box;
+    padding: 50px;
 }
 .secao {
-    margin-inline: 20px;
+    margin: 20px;
     padding: 50px;
     text-align: center;
     border: solid;
     border-radius: 25px;
+}
+.imagem_principal {
+    margin: 0px;
+    width: auto;
 }
