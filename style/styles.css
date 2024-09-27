@@ -1,6 +1,10 @@
 h1 {
     text-align: center;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid #010101;
+}
+h2 {
+    text-align: center;
+    border-top: 2px solid #010101;
 }
 button {
     background-color: #ffffff;
@@ -12,7 +16,7 @@ img {
 }
 .row {
     box-sizing: border-box;
-    padding: 50px;
+    padding: 30px;
 }
 .secao {
     margin: 20px;
@@ -21,7 +25,9 @@ img {
     border: solid;
     border-radius: 25px;
 }
-.imagem_principal {
+.principal {
     margin: 0px;
-    width: auto;
+    width: 100%; /* Defina a largura desejada */  
+    height: 250px; /* Defina a altura desejada */  
+    overflow: hidden; /* Oculta a parte da imagem que excede o contêiner */  
 }
