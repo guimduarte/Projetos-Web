@@ -31,3 +31,11 @@ img {
     height: 250px; /* Defina a altura desejada */  
     overflow: hidden; /* Oculta a parte da imagem que excede o contêiner */  
 }
+.footer{
+    background-color: gray;
+    text-align: center;
+    border: solid;
+    margin: 20px;
+
+
+}
