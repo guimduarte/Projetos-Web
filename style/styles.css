@@ -27,15 +27,19 @@ img {
 }
 .principal {
     margin: 0px;
-    width: 100%; /* Defina a largura desejada */  
-    height: 250px; /* Defina a altura desejada */  
-    overflow: hidden; /* Oculta a parte da imagem que excede o contêiner */  
+    width: 100%; /* Defina a largura desejada */   
+    /* overflow: hidden; */ /* Oculta a parte da imagem que excede o contêiner */  
+}
+.navbar {
+    background-color: #010101;
+}
+.link {
+    color: white;
+    text-decoration: none;
 }
 .footer{
     background-color: gray;
     text-align: center;
     border: solid;
     margin: 20px;
-
-
 }
