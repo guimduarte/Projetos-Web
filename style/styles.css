@@ -26,6 +26,9 @@ img {
     height: 150px;
     overflow: hidden; /* Oculta a parte da imagem que excede o contêiner */
 }
+#preco{
+    font-weight: bold;    
+}
 @media(max-width: 450px) {
     .secao {
         padding: 40px;
